@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\FrameworkStudy_Git\.metadata\.plugins\org.eclipse.jdt.core
+1456146697.index
+192081947.index
+2230873167.index
+567032223.index
+2260652566.index
+3099944997.index
+3366952106.index
